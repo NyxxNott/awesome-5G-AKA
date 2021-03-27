@@ -6,3 +6,9 @@ Awesome Authenticated Key Agreements for 5G Networks
 
 ## 5G Wireless using AMPL
 https://github.com/shabeelkandi/Modelling-the-provision-of-5G-Wireless-Internet-using-AMPL
+
+## 5G AKA Protocol Privacy
+- http://www.lsv.fr/~koutsos/techreports/aka.pdf
+- https://arxiv.org/abs/1811.06922
+
+## 
